@@ -108,7 +108,6 @@ module.exports = {
 		"selector-list-comma-newline-before": "never-multi-line",
 		"selector-list-comma-space-after": "never",
 		"selector-list-comma-space-before": "never",
-		"selector-max-class": 2,
 		"selector-max-empty-lines": 0,
 		"selector-max-compound-selectors": 2,
 		"selector-max-specificity": "0,2,0",

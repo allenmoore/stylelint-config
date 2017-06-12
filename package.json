@@ -1,5 +1,5 @@
 {
-	"name": "styleline-config-allenmoore",
+	"name": "stylelint-config-allenmoore",
 	"version": "1.0.0",
 	"description": "A shareable stylelint configuration",
 	"keywords": [
