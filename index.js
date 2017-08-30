@@ -58,7 +58,6 @@ module.exports = {
 		"function-name-case": "lower",
 		"function-parentheses-newline-inside": "never-multi-line",
 		"function-parentheses-space-inside": "never",
-		"function-url-data-uris": "never",
 		"function-url-no-scheme-relative": true,
 		"function-url-quotes": "never",
 		"function-whitespace-after": "always",
