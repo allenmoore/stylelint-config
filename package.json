@@ -21,13 +21,11 @@
 		"type": "git",
 		"url": "git+https://github.com/allenmoore/stylelint-config.git"
 	},
-	"devDependencies": {
-		"stylelint": "^7.0.0"
-	},
-	"peerDependencies": {
-		"stylelint": "^7.0.0"
-	},
 	"file": [
 		"index.js"
-	]
+	],
+	"devDependencies": {
+		"stylelint": "^8.0.0",
+		"stylelint-rscss": "^0.4.0"
+	}
 }
