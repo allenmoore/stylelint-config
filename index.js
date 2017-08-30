@@ -1,9 +1,6 @@
 "use strict"
 
 module.exports = {
-	"extends": [
-		"stylelint-rscss/config"
-	],
 	"rules": {
 		"at-rule-empty-line-before": "always",
 		"at-rule-name-case": "lower",

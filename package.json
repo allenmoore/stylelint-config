@@ -25,7 +25,6 @@
 		"index.js"
 	],
 	"devDependencies": {
-		"stylelint": "^8.0.0",
-		"stylelint-rscss": "^0.4.0"
+		"stylelint": "^8.0.0"
 	}
 }
