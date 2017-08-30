@@ -1,6 +1,6 @@
 {
 	"name": "stylelint-config-allenmoore",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "A shareable stylelint configuration",
 	"keywords": [
 		"stylelint",
@@ -21,13 +21,10 @@
 		"type": "git",
 		"url": "git+https://github.com/allenmoore/stylelint-config.git"
 	},
-	"devDependencies": {
-		"stylelint": "^7.0.0"
-	},
-	"peerDependencies": {
-		"stylelint": "^7.0.0"
-	},
 	"file": [
 		"index.js"
-	]
+	],
+	"devDependencies": {
+		"stylelint": "^8.0.0"
+	}
 }
